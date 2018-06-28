@@ -1,0 +1,15 @@
+{
+  "name": "testautomation",
+  "version": "1.0.0",
+  "description": "testautomation made by nightwatch",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Robby Wiegmans",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.19"
+  },
+  "devDependencies": {}
+}
